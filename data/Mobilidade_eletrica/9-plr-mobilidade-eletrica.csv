@@ -1,0 +1,620 @@
+﻿Ano;Semestre;Concelho;Pedidos de Ligação à Rede Executados (#);CodConcelho
+2021;1;Vila Flor;1.0;0410
+2021;1;São João da Madeira;1.0;0116
+2021;1;Maia;1.0;1306
+2021;1;Barcelos;2.0;0302
+2021;1;Porto;9.0;1312
+2021;1;Santa Maria da Feira;1.0;0109
+2021;1;Santarém;2.0;1416
+2021;1;Mafra;1.0;1109
+2021;1;Loulé;4.0;0808
+2021;1;Montijo;1.0;1507
+2021;1;Guimarães;2.0;0308
+2021;1;Coimbra;1.0;0603
+2021;1;Barreiro;1.0;1504
+2021;1;Nelas;1.0;1809
+2021;1;Castelo Branco;1.0;0502
+2021;1;Grândola;1.0;1505
+2021;1;Cascais;1.0;1105
+2021;1;Arraiolos;1.0;0702
+2021;1;Seixal;1.0;1510
+2021;1;Odivelas;2.0;1116
+2021;1;Oleiros;1.0;0506
+2021;1;Gondomar;1.0;1304
+2021;1;Vila Nova da Barquinha;1.0;1420
+2021;1;Vagos;1.0;0118
+2021;1;Viana do Alentejo;1.0;0713
+2021;1;Oliveira do Hospital;1.0;0611
+2021;2;Cantanhede;2.0;0602
+2021;2;Paços de Ferreira;1.0;1309
+2021;2;Viseu;1.0;1823
+2021;2;Arcos de Valdevez;1.0;1601
+2021;2;Belmonte;1.0;0501
+2021;2;Setúbal;1.0;1512
+2021;2;Viana do Castelo;2.0;1609
+2021;2;Oliveira de Frades;1.0;1810
+2021;2;Vila Franca de Xira;1.0;1114
+2021;2;Braga;1.0;0303
+2021;2;Trofa;1.0;1318
+2021;2;Arouca;2.0;0104
+2021;2;Vila Nova de Famalicão;1.0;0312
+2021;2;Loulé;5.0;0808
+2021;2;Sertã;1.0;0509
+2021;2;Alcobaça;1.0;1001
+2021;2;Barreiro;1.0;1504
+2021;2;Mondim de Basto;1.0;1705
+2021;2;Albufeira;2.0;0801
+2022;1;Vila Nova de Gaia;2.0;1317
+2022;1;Vila Nova de Foz Côa;2.0;0914
+2022;1;Sousel;1.0;1215
+2022;1;Loures;2.0;1107
+2022;1;Leiria;2.0;1009
+2022;1;Celorico da Beira;1.0;0903
+2022;1;Gondomar;1.0;1304
+2022;1;Oeiras;3.0;1110
+2022;1;Sines;1.0;1513
+2022;1;Ourique;1.0;0212
+2022;1;Santarém;1.0;1416
+2022;1;Braga;1.0;0303
+2022;1;Porto;4.0;1312
+2022;1;Vila Pouca de Aguiar;1.0;1713
+2022;1;Vila Verde;1.0;0313
+2022;1;Póvoa de Varzim;1.0;1313
+2022;1;Tavira;1.0;0814
+2022;1;Santo Tirso;2.0;1314
+2022;1;Évora;1.0;0705
+2022;1;Portalegre;1.0;1214
+2022;2;Santo Tirso;1.0;1314
+2022;2;Vila Nova de Paiva;1.0;1822
+2022;2;Nisa;1.0;1212
+2022;2;Guarda;1.0;0907
+2022;2;Vila Nova de Gaia;1.0;1317
+2022;2;Maia;1.0;1306
+2022;2;Sesimbra;1.0;1511
+2022;2;Lisboa;3.0;1106
+2022;2;Penafiel;1.0;1311
+2022;2;Marco de Canaveses;1.0;1307
+2022;2;Óbidos;1.0;1012
+2022;2;Felgueiras;2.0;1303
+2022;2;Esposende;1.0;0306
+2022;2;Entroncamento;1.0;1410
+2022;2;Vila Real;1.0;1714
+2022;2;Silves;5.0;0813
+2023;1;Arruda dos Vinhos;1.0;1102
+2023;1;Viseu;2.0;1823
+2023;1;Paços de Ferreira;1.0;1309
+2023;1;Vendas Novas;1.0;0712
+2023;1;Tábua;1.0;0616
+2023;1;Penalva do Castelo;1.0;1811
+2023;1;Vila Flor;1.0;0410
+2023;1;Pampilhosa da Serra;1.0;0612
+2023;1;Bragança;1.0;0402
+2023;1;Maia;2.0;1306
+2023;1;Celorico da Beira;1.0;0903
+2023;1;Porto;1.0;1312
+2023;1;Albufeira;4.0;0801
+2023;1;Entroncamento;1.0;1410
+2023;1;Portimão;2.0;0811
+2023;1;Porto de Mós;1.0;1016
+2023;1;Caminha;1.0;1602
+2023;1;Estarreja;1.0;0108
+2023;1;Vale de Cambra;1.0;0119
+2023;1;Marco de Canaveses;1.0;1307
+2023;1;Ponte de Lima;1.0;1607
+2023;1;Alcochete;1.0;1502
+2023;1;Guimarães;14.0;0308
+2023;2;Arruda dos Vinhos;2.0;1102
+2023;2;Vendas Novas;1.0;0712
+2023;2;Óbidos;1.0;1012
+2023;2;Mafra;1.0;1109
+2023;2;Setúbal;3.0;1512
+2023;2;Vieira do Minho;1.0;0311
+2023;2;Vila Franca de Xira;3.0;1114
+2023;2;Carregal do Sal;1.0;1802
+2023;2;Santo Tirso;1.0;1314
+2023;2;Almada;2.0;1503
+2023;2;Santa Maria da Feira;7.0;0109
+2023;2;Caminha;2.0;1602
+2023;2;Moita;1.0;1506
+2023;2;Albufeira;2.0;0801
+2023;2;Viana do Castelo;1.0;1609
+2023;2;Vila Nova de Famalicão;1.0;0312
+2023;2;Lisboa;5.0;1106
+2024;1;Mangualde;3.0;1806
+2024;1;Grândola;1.0;1505
+2024;1;Maia;6.0;1306
+2024;1;Tomar;2.0;1418
+2024;1;Alfândega da Fé;1.0;0401
+2024;1;Vinhais;1.0;0412
+2024;1;Arruda dos Vinhos;2.0;1102
+2024;1;Porto;2.0;1312
+2024;1;Condeixa-a-Nova;1.0;0604
+2024;1;Bragança;1.0;0402
+2024;1;Almada;1.0;1503
+2024;1;Vouzela;1.0;1824
+2024;1;Bombarral;2.0;1005
+2024;1;Felgueiras;2.0;1303
+2024;1;Rio Maior;2.0;1414
+2024;1;Sever do Vouga;1.0;0117
+2024;1;Peniche;2.0;1014
+2024;1;Leiria;4.0;1009
+2024;1;Beja;18.0;0205
+2024;1;Albergaria-a-Velha;9.0;0102
+2024;1;Castro daire;2.0;1803
+2024;1;Ferreira do Zêzere;1.0;1411
+2024;1;Chaves;1.0;1703
+2024;1;Portimão;1.0;0811
+2024;1;Idanha-a-Nova;1.0;0505
+2024;1;Esposende;6.0;0306
+2024;1;Caminha;2.0;1602
+2024;2;Barcelos;6.0;0302
+2024;2;Terras de Bouro;1.0;0310
+2024;2;Bombarral;1.0;1005
+2024;2;Cabeceiras de Basto;1.0;0304
+2024;2;Ovar;1.0;0115
+2024;2;Palmela;2.0;1508
+2024;2;Montemor-o-Velho;3.0;0610
+2024;2;Cantanhede;2.0;0602
+2024;2;Viseu;3.0;1823
+2024;2;Lagos;1.0;0807
+2024;2;Alenquer;4.0;1101
+2024;2;Alijó;1.0;1701
+2024;2;Vila Verde;1.0;0313
+2024;2;Lisboa;9.0;1106
+2024;2;Maia;2.0;1306
+2024;2;Torres Vedras;1.0;1113
+2024;2;Amarante;1.0;1301
+2024;2;Gondomar;2.0;1304
+2024;2;Alandroal;1.0;0701
+2024;2;Anadia;5.0;0103
+2024;2;Albergaria-a-Velha;5.0;0102
+2024;2;Almeida;2.0;0902
+2024;2;Óbidos;2.0;1012
+2024;2;Lousã;6.0;0607
+2024;2;Guarda;2.0;0907
+2024;2;Marinha Grande;1.0;1010
+2024;2;Vila Nova de Gaia;4.0;1317
+2024;2;Seia;1.0;0912
+2024;2;Moita;3.0;1506
+2024;2;Arruda dos Vinhos;2.0;1102
+2024;2;Covilhã;7.0;0503
+2024;2;Coimbra;1.0;0603
+2024;2;Loures;3.0;1107
+2024;2;Guimarães;4.0;0308
+2024;2;Espinho;1.0;0107
+2024;2;Alvito;2.0;0203
+2024;2;Faro;1.0;0805
+2024;2;Cascais;16.0;1105
+2025;1;Torres Vedras;1.0;1113
+2025;1;Olhão;1.0;0810
+2025;1;Santa Comba Dão;1.0;1814
+2025;1;Idanha-a-Nova;1.0;0505
+2025;1;Mora;1.0;0707
+2025;1;Esposende;1.0;0306
+2025;1;Ponte de Sor;1.0;1213
+2025;1;Sátão;1.0;1817
+2025;1;Sintra;2.0;1111
+2025;1;Guarda;1.0;0907
+2025;1;Viana do Castelo;1.0;1609
+2025;1;Caminha;2.0;1602
+2025;1;Murça;1.0;1707
+2025;1;Palmela;2.0;1508
+2025;1;Oliveira de Azeméis;1.0;0113
+2025;1;Silves;2.0;0813
+2025;1;Santiago do Cacém;2.0;1509
+2025;1;Ílhavo;1.0;0110
+2025;1;Vila Real;1.0;1714
+2021;1;Lousã;1.0;0607
+2021;1;Ourique;2.0;0212
+2021;1;Oeiras;16.0;1110
+2021;1;Moita;1.0;1506
+2021;1;Fafe;2.0;0307
+2021;1;Valongo;1.0;1315
+2021;1;Matosinhos;1.0;1308
+2021;1;Tavira;1.0;0814
+2021;1;Albergaria-a-Velha;1.0;0102
+2021;1;Águeda;2.0;0101
+2021;1;Lisboa;4.0;1106
+2021;1;Lagoa;2.0;0806
+2021;1;Ponte da Barca;1.0;1606
+2021;1;Murtosa;1.0;0112
+2021;2;Arganil;1.0;0601
+2021;2;Grândola;2.0;1505
+2021;2;Serpa;1.0;0213
+2021;2;Peso da Régua;1.0;1708
+2021;2;Resende;1.0;1813
+2021;2;Caldas da Rainha;1.0;1006
+2021;2;Palmela;1.0;1508
+2021;2;Coimbra;1.0;0603
+2021;2;Lisboa;2.0;1106
+2021;2;Cascais;1.0;1105
+2021;2;Seixal;1.0;1510
+2021;2;Vila do Conde;1.0;1316
+2021;2;Vila Verde;2.0;0313
+2021;2;Montemor-o-Novo;2.0;0706
+2021;2;Porto;2.0;1312
+2021;2;Amares;1.0;0301
+2021;2;Montijo;1.0;1507
+2021;2;Ponte de Sor;1.0;1213
+2021;2;Tomar;1.0;1418
+2021;2;Penamacor;1.0;0507
+2021;2;Fafe;1.0;0307
+2021;2;Ponte de Lima;2.0;1607
+2021;2;Loures;3.0;1107
+2021;2;Gondomar;1.0;1304
+2021;2;Matosinhos;1.0;1308
+2022;1;Terras de Bouro;1.0;0310
+2022;1;Valença;2.0;1608
+2022;1;Entroncamento;1.0;1410
+2022;1;Santa Maria da Feira;1.0;0109
+2022;1;Espinho;1.0;0107
+2022;1;Vila do Conde;2.0;1316
+2022;1;Cascais;2.0;1105
+2022;1;Guimarães;2.0;0308
+2022;1;Vila Franca de Xira;2.0;1114
+2022;1;Mirandela;1.0;0407
+2022;1;Seixal;3.0;1510
+2022;1;Moita;1.0;1506
+2022;1;Marinha Grande;1.0;1010
+2022;1;Mafra;1.0;1109
+2022;1;Rio Maior;1.0;1414
+2022;1;Vila Real de Santo António;1.0;0816
+2022;1;Viana do Castelo;2.0;1609
+2022;1;Alcácer do Sal;2.0;1501
+2022;1;Coimbra;2.0;0603
+2022;1;Felgueiras;2.0;1303
+2022;1;Aveiro;2.0;0105
+2022;1;Lisboa;3.0;1106
+2022;1;Ponte de Sor;2.0;1213
+2022;1;Águeda;1.0;0101
+2022;1;Lousada;1.0;1305
+2022;2;Nazaré;12.0;1011
+2022;2;Castanheira de Pêra;1.0;1007
+2022;2;Trofa;1.0;1318
+2022;2;Cascais;2.0;1105
+2022;2;Torres Novas;1.0;1419
+2022;2;Setúbal;2.0;1512
+2022;2;Coimbra;1.0;0603
+2022;2;Tomar;5.0;1418
+2022;2;Valongo;1.0;1315
+2022;2;Macedo de Cavaleiros;1.0;0405
+2022;2;Matosinhos;2.0;1308
+2022;2;Vimioso;1.0;0411
+2022;2;Braga;2.0;0303
+2022;2;Covilhã;1.0;0503
+2022;2;Sintra;1.0;1111
+2022;2;Porto de Mós;1.0;1016
+2022;2;Amarante;1.0;1301
+2022;2;Caminha;2.0;1602
+2022;2;Viseu;2.0;1823
+2022;2;Lourinhã;2.0;1108
+2022;2;Oeiras;4.0;1110
+2022;2;Lamego;1.0;1805
+2022;2;Pombal;2.0;1015
+2022;2;Chaves;1.0;1703
+2022;2;Seia;2.0;0912
+2023;1;Belmonte;1.0;0501
+2023;1;Torres Vedras;5.0;1113
+2023;1;Gondomar;1.0;1304
+2023;1;Nazaré;3.0;1011
+2023;1;Pombal;1.0;1015
+2023;1;Penacova;1.0;0613
+2023;1;Amarante;1.0;1301
+2023;1;Matosinhos;4.0;1308
+2023;1;Beja;1.0;0205
+2023;1;Covilhã;2.0;0503
+2023;1;Vila Real;5.0;1714
+2023;1;Estremoz;2.0;0704
+2023;1;Montemor-o-Velho;1.0;0610
+2023;1;Marinha Grande;2.0;1010
+2023;1;Olhão;2.0;0810
+2023;1;Aveiro;1.0;0105
+2023;1;Leiria;2.0;1009
+2023;1;Guarda;1.0;0907
+2023;1;Trofa;1.0;1318
+2023;1;Tomar;4.0;1418
+2023;1;Évora;1.0;0705
+2023;1;São João da Madeira;1.0;0116
+2023;1;Mogadouro;1.0;0408
+2023;2;Chaves;1.0;1703
+2023;2;Estremoz;2.0;0704
+2023;2;Olhão;1.0;0810
+2023;2;Seia;1.0;0912
+2023;2;Alenquer;1.0;1101
+2023;2;Estarreja;2.0;0108
+2023;2;Guimarães;1.0;0308
+2023;2;Tondela;1.0;1821
+2023;2;Évora;1.0;0705
+2023;2;Alcochete;1.0;1502
+2023;2;Lousada;1.0;1305
+2023;2;Barcelos;1.0;0302
+2023;2;Castelo Branco;1.0;0502
+2024;1;Paredes;2.0;1310
+2024;1;Vila Nova de Foz Côa;1.0;0914
+2024;1;Espinho;1.0;0107
+2024;1;Penacova;1.0;0613
+2024;1;Barcelos;2.0;0302
+2024;1;Montemor-o-Novo;4.0;0706
+2024;1;Guimarães;3.0;0308
+2024;1;Olhão;2.0;0810
+2024;1;Mira;2.0;0608
+2024;1;Montemor-o-Velho;1.0;0610
+2024;1;Loures;1.0;1107
+2024;1;Vila Real;1.0;1714
+2024;1;Portalegre;2.0;1214
+2024;1;Faro;13.0;0805
+2024;1;Proença-a-Nova;2.0;0508
+2024;1;Lisboa;3.0;1106
+2024;1;Salvaterra de Magos;1.0;1415
+2024;1;Tondela;1.0;1821
+2024;1;Oeiras;4.0;1110
+2024;1;Valongo;2.0;1315
+2024;1;Penafiel;6.0;1311
+2024;1;Arganil;1.0;0601
+2024;1;Covilhã;8.0;0503
+2024;1;Lagoa;1.0;0806
+2024;1;Sátão;2.0;1817
+2024;1;Viana do Alentejo;5.0;0713
+2024;1;Nelas;2.0;1809
+2024;1;Viseu;5.0;1823
+2024;1;Alcácer do Sal;1.0;1501
+2024;1;Coimbra;1.0;0603
+2024;1;Setúbal;2.0;1512
+2024;1;Vila de Rei;1.0;0510
+2024;1;Figueira da Foz;1.0;0605
+2024;1;Carregal do Sal;1.0;1802
+2024;1;Trofa;2.0;1318
+2024;1;Vila Nova de Gaia;2.0;1317
+2024;1;Sousel;1.0;1215
+2024;1;Torres Novas;1.0;1419
+2024;1;Odivelas;5.0;1116
+2024;1;Barreiro;4.0;1504
+2024;1;Vila Nova de Paiva;2.0;1822
+2024;1;Vila Franca de Xira;8.0;1114
+2024;1;Santarém;1.0;1416
+2024;2;Portimão;1.0;0811
+2024;2;Penafiel;5.0;1311
+2024;2;Porto;2.0;1312
+2024;2;Oliveira de Frades;1.0;1810
+2024;2;Nelas;1.0;1809
+2024;2;Vila Franca de Xira;7.0;1114
+2024;2;Resende;1.0;1813
+2024;2;Benavente;2.0;1405
+2024;2;Pombal;1.0;1015
+2024;2;Silves;8.0;0813
+2024;2;Paços de Ferreira;2.0;1309
+2024;2;São João da Madeira;19.0;0116
+2024;2;Barreiro;2.0;1504
+2024;2;Olhão;1.0;0810
+2024;2;Oliveira do Bairro;5.0;0114
+2024;2;Sines;2.0;1513
+2024;2;Loulé;8.0;0808
+2024;2;Ílhavo;4.0;0110
+2024;2;Redondo;1.0;0710
+2024;2;Santa Maria da Feira;5.0;0109
+2024;2;Mealhada;11.0;0111
+2024;2;Castelo Branco;1.0;0502
+2024;2;Leiria;4.0;1009
+2024;2;Beja;2.0;0205
+2024;2;Esposende;7.0;0306
+2025;1;Santo Tirso;11.0;1314
+2025;1;Odivelas;1.0;1116
+2025;1;Valongo;1.0;1315
+2025;1;Vila Franca de Xira;5.0;1114
+2025;1;São João da Madeira;4.0;0116
+2025;1;Elvas;1.0;1207
+2025;1;Porto;4.0;1312
+2025;1;Cascais;80.0;1105
+2025;1;Benavente;1.0;1405
+2025;1;Covilhã;1.0;0503
+2025;1;Tábua;1.0;0616
+2025;1;Lagos;2.0;0807
+2025;1;Oliveira do Bairro;2.0;0114
+2025;1;Cabeceiras de Basto;6.0;0304
+2025;1;Beja;1.0;0205
+2025;1;Montijo;4.0;1507
+2025;1;Cantanhede;1.0;0602
+2025;1;Ponte de Lima;3.0;1607
+2025;1;Faro;1.0;0805
+2025;1;Viseu;1.0;1823
+2025;1;Loures;1.0;1107
+2025;1;Portalegre;2.0;1214
+2025;1;Penafiel;1.0;1311
+2025;1;Santa Maria da Feira;2.0;0109
+2025;1;Maia;1.0;1306
+2025;1;Alcobaça;1.0;1001
+2021;1;Esposende;1.0;0306
+2021;1;Valpaços;1.0;1712
+2021;1;Arruda dos Vinhos;2.0;1102
+2021;1;Reguengos de Monsaraz;2.0;0711
+2021;1;Aveiro;1.0;0105
+2021;1;Sabrosa;1.0;1710
+2021;1;Gouveia;1.0;0906
+2021;1;Vila Nova de Gaia;2.0;1317
+2021;1;Loures;1.0;1107
+2021;1;Portimão;1.0;0811
+2021;1;Póvoa de Varzim;2.0;1313
+2021;1;Viana do Castelo;2.0;1609
+2021;1;Idanha-a-Nova;1.0;0505
+2021;1;Albufeira;5.0;0801
+2021;1;Vila Nova de Famalicão;2.0;0312
+2021;1;Sobral de Monte Agraço;1.0;1112
+2021;1;Alcochete;1.0;1502
+2021;1;Odemira;1.0;0211
+2021;1;Montemor-o-Velho;2.0;0610
+2021;1;Sabugal;1.0;0911
+2021;1;Vila Franca de Xira;2.0;1114
+2021;1;Figueira da Foz;1.0;0605
+2021;1;Soure;1.0;0615
+2021;2;Guimarães;2.0;0308
+2021;2;Odemira;1.0;0211
+2021;2;Marco de Canaveses;1.0;1307
+2021;2;Guarda;1.0;0907
+2021;2;Santarém;1.0;1416
+2021;2;Penafiel;2.0;1311
+2021;2;Figueira da Foz;1.0;0605
+2021;2;Lagos;1.0;0807
+2021;2;Leiria;1.0;1009
+2021;2;Oeiras;12.0;1110
+2021;2;Santa Comba Dão;1.0;1814
+2021;2;Mira;1.0;0608
+2021;2;Torres Vedras;1.0;1113
+2021;2;Vila Nova de Foz Côa;1.0;0914
+2021;2;Monção;1.0;1604
+2021;2;Vendas Novas;3.0;0712
+2021;2;Aveiro;11.0;0105
+2021;2;Sabugal;1.0;0911
+2022;1;Barreiro;1.0;1504
+2022;1;Chamusca;2.0;1407
+2022;1;Estarreja;1.0;0108
+2022;1;Cartaxo;1.0;1406
+2022;1;Alenquer;1.0;1101
+2022;1;Sintra;7.0;1111
+2022;1;Mogadouro;1.0;0408
+2022;1;Matosinhos;3.0;1308
+2022;1;Paredes;3.0;1310
+2022;1;Beja;1.0;0205
+2022;1;Amadora;1.0;1115
+2022;1;Bragança;1.0;0402
+2022;1;Loulé;1.0;0808
+2022;1;Olhão;1.0;0810
+2022;1;Miranda do douro;1.0;0406
+2022;1;Arcos de Valdevez;1.0;1601
+2022;2;Seixal;12.0;1510
+2022;2;Aveiro;1.0;0105
+2022;2;Palmela;2.0;1508
+2022;2;Loures;1.0;1107
+2022;2;Porto;9.0;1312
+2022;2;Santa Maria da Feira;1.0;0109
+2022;2;Guimarães;24.0;0308
+2022;2;Loulé;7.0;0808
+2022;2;Barreiro;7.0;1504
+2022;2;Penela;2.0;0614
+2022;2;São João da Madeira;1.0;0116
+2022;2;Viana do Castelo;1.0;1609
+2023;1;Abrantes;2.0;1401
+2023;1;Vila Nova de Famalicão;3.0;0312
+2023;1;Loulé;9.0;0808
+2023;1;Oeiras;1.0;1110
+2023;1;Montemor-o-Novo;1.0;0706
+2023;1;Sintra;2.0;1111
+2023;1;Santa Maria da Feira;18.0;0109
+2023;1;Cascais;8.0;1105
+2023;1;Vila Nova de Gaia;2.0;1317
+2023;1;Santarém;1.0;1416
+2023;1;Grândola;1.0;1505
+2023;1;Barreiro;45.0;1504
+2023;1;Sines;1.0;1513
+2023;1;Braga;1.0;0303
+2023;1;Golegã;1.0;1412
+2023;1;Sesimbra;1.0;1511
+2023;1;Alcobaça;1.0;1001
+2023;1;Vizela;1.0;0314
+2023;1;Caldas da Rainha;2.0;1006
+2023;2;Guarda;1.0;0907
+2023;2;Barreiro;4.0;1504
+2023;2;Porto;1.0;1312
+2023;2;Montemor-o-Velho;1.0;0610
+2023;2;Penafiel;2.0;1311
+2023;2;Mangualde;1.0;1806
+2023;2;Covilhã;5.0;0503
+2023;2;Azambuja;1.0;1103
+2023;2;Montijo;2.0;1507
+2023;2;Santarém;2.0;1416
+2023;2;Entroncamento;4.0;1410
+2023;2;Matosinhos;4.0;1308
+2023;2;Santa Comba Dão;1.0;1814
+2023;2;Lourinhã;1.0;1108
+2023;2;Lagos;1.0;0807
+2023;2;Alcobaça;1.0;1001
+2023;2;Sintra;1.0;1111
+2023;2;Beja;1.0;0205
+2023;2;Gondomar;2.0;1304
+2023;2;Águeda;2.0;0101
+2023;2;Esposende;1.0;0306
+2023;2;Ovar;1.0;0115
+2023;2;Oeiras;2.0;1110
+2023;2;Braga;1.0;0303
+2023;2;Mira;1.0;0608
+2024;1;Santiago do Cacém;1.0;1509
+2024;1;Seixal;3.0;1510
+2024;1;Lourinhã;3.0;1108
+2024;1;Cascais;5.0;1105
+2024;1;Évora;2.0;0705
+2024;1;Vila Nova de Famalicão;1.0;0312
+2024;1;Alenquer;2.0;1101
+2024;1;Ovar;1.0;0115
+2024;1;Castro Marim;1.0;0804
+2024;1;Paços de Ferreira;1.0;1309
+2024;1;Benavente;2.0;1405
+2024;1;Penalva do Castelo;2.0;1811
+2024;1;Tábua;1.0;0616
+2024;1;Águeda;1.0;0101
+2024;1;Miranda do douro;1.0;0406
+2024;1;Braga;2.0;0303
+2024;1;Porto de Mós;1.0;1016
+2024;1;Sernancelhe;1.0;1818
+2024;1;Arcos de Valdevez;1.0;1601
+2024;1;Vila do Conde;9.0;1316
+2024;1;Lousã;2.0;0607
+2024;1;Mealhada;1.0;0111
+2024;1;Loulé;12.0;0808
+2024;1;Caldas da Rainha;2.0;1006
+2024;1;Estarreja;1.0;0108
+2024;1;Matosinhos;2.0;1308
+2024;1;Oliveira do Hospital;1.0;0611
+2024;1;Alcobaça;4.0;1001
+2024;1;Oliveira do Bairro;2.0;0114
+2024;1;Estremoz;1.0;0704
+2024;1;Sines;1.0;1513
+2024;1;Cinfães;2.0;1804
+2024;1;Mafra;1.0;1109
+2024;1;Santa Maria da Feira;1.0;0109
+2024;1;Sintra;5.0;1111
+2024;1;Aguiar da Beira;2.0;0901
+2024;1;Celorico de Basto;1.0;0305
+2024;2;Oeiras;3.0;1110
+2024;2;Ourique;1.0;0212
+2024;2;Odemira;1.0;0211
+2024;2;Albufeira;1.0;0801
+2024;2;Paredes;2.0;1310
+2024;2;Chaves;2.0;1703
+2024;2;Idanha-a-Nova;2.0;0505
+2024;2;Setúbal;1.0;1512
+2024;2;Estarreja;2.0;0108
+2024;2;Matosinhos;5.0;1308
+2024;2;Sernancelhe;1.0;1818
+2024;2;Aveiro;1.0;0105
+2024;2;Oliveira de Azeméis;4.0;0113
+2024;2;Condeixa-a-Nova;1.0;0604
+2024;2;Montijo;23.0;1507
+2024;2;Braga;2.0;0303
+2024;2;Abrantes;1.0;1401
+2024;2;Lourinhã;2.0;1108
+2024;2;Tondela;1.0;1821
+2024;2;Sintra;3.0;1111
+2025;1;Mealhada;2.0;0111
+2025;1;Condeixa-a-Nova;1.0;0604
+2025;1;Alenquer;1.0;1101
+2025;1;Loulé;1.0;0808
+2025;1;Anadia;9.0;0103
+2025;1;Vila Nova de Gaia;1.0;1317
+2025;1;Cinfães;1.0;1804
+2025;1;Amarante;1.0;1301
+2025;1;São Brás de Alportel;1.0;0812
+2025;1;Matosinhos;1.0;1308
+2025;1;Fafe;1.0;0307
+2025;1;Salvaterra de Magos;1.0;1415
+2025;1;Fundão;1.0;0504
+2025;1;Tabuaço;1.0;1819
+2025;1;Albufeira;1.0;0801
+2025;1;Lisboa;3.0;1106
+2025;1;Oeiras;1.0;1110
+2025;1;Vila Nova de Poiares;1.0;0617
+2025;1;Marco de Canaveses;1.0;1307
+2025;1;Lagoa;1.0;0806
+2025;1;Paços de Ferreira;1.0;1309
+2025;1;Aveiro;1.0;0105
+2025;1;Vila do Conde;1.0;1316
+2025;1;Barreiro;1.0;1504
+2025;1;Alcácer do Sal;2.0;1501
